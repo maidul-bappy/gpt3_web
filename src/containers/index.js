@@ -4,4 +4,3 @@ export { default as Footer } from './footer/Footer.jsx';
 export { default as Header } from './header/Header.jsx';
 export { default as Possibility } from './possibility/Possibility.jsx';
 export { default as WhatGPT3 } from './whatGPT3/WhatGPT3.jsx';
-
